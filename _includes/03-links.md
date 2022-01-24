@@ -1,1 +1,1 @@
-[github profile link] (https://github.com/parvathyst)
+[GitHub](http://github.com/parvathyst)
